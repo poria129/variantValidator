@@ -37,8 +37,8 @@ dependencies = [
     "protobuf>=4.23.4",
     "lxml>=4.9.3",
     "pysam",
-    "vvhgvs@git+https://github.com/openvar/vv_hgvs@master",
-    "VariantFormatter@git+https://github.com/openvar/variantFormatter@master"
+    "vvhgvs@git+https://github.com/openvar/vv_hgvs@d620dd1908487af564a706aa0fd08e6113b8c60e",
+    "VariantFormatter@git+https://github.com/openvar/variantFormatter@3ba7f1e759cdcfa7e2808f680307a6d4dc304cee",
 ]
 
 classifiers = [
